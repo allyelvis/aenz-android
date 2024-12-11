@@ -1,0 +1,2 @@
+rootProject.name = "aenz-android"
+include ':app'
