@@ -20,3 +20,4 @@ The Aenzbi Android Suite is a modular business management app for:
 
 ## License
 MIT
+# aenz-android
